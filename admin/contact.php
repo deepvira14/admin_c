@@ -99,6 +99,7 @@
                                 <li><a href="activity.php">Activity</a></li>
                                 <li><a href="payment.php">Payment</a></li> 
                                 <li><a href="contact.php">Contact</a></li>
+                                <li><a href="reports.php">Reports</a></li>
                                 <li><a href="blank.php">Blank</a></li>
                     </ul>
                 </nav>

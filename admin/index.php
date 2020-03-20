@@ -99,6 +99,7 @@
                                 <li><a href="activity.php">Activity</a></li>
                                 <li><a href="payment.php">Payment</a></li> 
                                 <li><a href="contact.php">Contact</a></li>
+                                <li><a href="reports.php">Reports</a></li>
                                 <li><a href="blank.php">Blank</a></li>
 <!--                                <li><a href="index6.html">Dashboard 6</a></li>-->
                     </ul>
@@ -152,77 +153,99 @@
                                                 <th colspan="2">Indoor Employees</th>
                                                 <th>Task</th>
                                                 <th>Priority</th>
-                                                <th>Type</th>
                                                 <th>Start Date</th>
+                                                <th>Time</th>
                                                 <th>End Date</th>
+                                                <th>Action</th>
                                             </tr>
                                         </thead>
                                         <tbody>
                                             <tr>
                                                 <td style="width:80px;"><span class="round">S</span></td>
                                                 <td>
-                                                    <h6>Sunil Joshi</h6></td>
-                                                <td>Delivery</td>
+                                                <h6>Sunil Joshi</h6></td>
+                                              <td> <span class data-container="body" title="Description" data-toggle="popover" data-placement="top" data-content="Sed posuere consectetur est at lobortis. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum."f>Delivery</span>
+                                                 </td>
+                                                
+                                                    
+                                                        
                                                 <td><span class="label label-success">One Day</span></td>
-                                                <td>Payment</td>
+                                                
                                                 <td>12-02-2020</td>
+                                                <td>13:00</td>
                                                 <td>15-02-20</td>
-                                            </tr>
-                                            <tr class="active">
+                                                <td>
+                                                    <button type="button" class="btn btn-secondary btn-circle" data-toggle="tooltip"  data-original-title="Assign"><i class="fa fa-check"></i> </button>
+                                                </td>
+                                            </tr> 
+                                            <tr>
                                                 <td><span class="round"><img src="../assets/images/users/2.jpg" alt="user" width="50" /></span></td>
                                                 <td>
-                                                    <h6>Andrew</h6></td>
-                                                <td>Real Homes</td>
+                                                <h6>Andrew</h6></td>
+                                                 <td> <span class data-container="body" title="Description" data-toggle="popover" data-placement="top" data-content="Sed posuere consectetur est at lobortis. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum."f>Stationary</span>
+                                                 </td>
                                                 <td><span class="label label-primary">Regular</span></td>
-                                                <td>Collection</td>
+                                                
                                                 <td>12-02-2020</td>
+                                                <td>12:00</td>
                                                 <td>15-02-20</td>
+                                                <td>
+                                                    <button type="button" class="btn btn-secondary btn-circle" data-toggle="tooltip"  data-original-title="Assign"><i class="fa fa-check"></i> </button>
+                                                </td>
                                             </tr>
                                             <tr>
-                                                <td><span class="round round-success">B</span></td>
+                                                <td style="width:80px;"><span class="round">S</span></td>
                                                 <td>
-                                                    <h6>Bhavesh patel</h6></td>
-                                                <td>MedicalPro Theme</td>
-                                                <td><span class="label label-primary">Regular</span></td>
-                                                <td>Stationary</td>
+                                                <h6>Sunil Joshi</h6></td>
+                                              <td> <span class data-container="body" title="Description" data-toggle="popover" data-placement="top" data-content="Sed posuere consectetur est at lobortis. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum."f>Delivery</span>
+                                                 </td>
+                                                
+                                                    
+                                                        
+                                                <td><span class="label label-success">One Day</span></td>
+                                                
                                                 <td>12-02-2020</td>
+                                                <td>13:00</td>
                                                 <td>15-02-20</td>
+                                                <td>
+                                                    <button type="button" class="btn btn-secondary btn-circle" data-toggle="tooltip"  data-original-title="Assign"><i class="fa fa-check"></i> </button>
+                                                </td>
                                             </tr>
                                             <tr>
-                                                <td><span class="round round-primary">N</span></td>
+                                                <td style="width:80px;"><span class="round">S</span></td>
                                                 <td>
-                                                    <h6>Nirav Joshi</h6></td>
-                                                <td>Elite Admin</td>
-                                                <td><span class="label label-danger">Urgent</span></td>
-                                                <td>Stationary</td>
+                                                <h6>Sunil Joshi</h6></td>
+                                              <td> <span class data-container="body" title="Description" data-toggle="popover" data-placement="top" data-content="Sed posuere consectetur est at lobortis. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum."f>Delivery</span>
+                                                 </td>
+                                                
+                                                    
+                                                        
+                                                <td><span class="label label-success">One Day</span></td>
+                                                
                                                 <td>12-02-2020</td>
+                                                <td>13:00</td>
                                                 <td>15-02-20</td>
+                                                <td>
+                                                    <button type="button" class="btn btn-secondary btn-circle" data-toggle="tooltip"  data-original-title="Assign"><i class="fa fa-check"></i> </button>
+                                                </td>
                                             </tr>
                                             <tr>
-                                                <td><span class="round round-warning">M</span></td>
+                                                <td style="width:80px;"><span class="round">S</span></td>
                                                 <td>
-                                                    <h6>Micheal Doe</h6></td>
-                                                <td>Helping Hands</td>
-                                                <td><span class="label label-danger">Urgent</span></td>
-                                                <td>Stationary</td>
+                                                <h6>Sunil Joshi</h6></td>
+                                              <td> <span class data-container="body" title="Description" data-toggle="popover" data-placement="top" data-content="Sed posuere consectetur est at lobortis. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum."f>Delivery</span>
+                                                 </td>
+                                                
+                                                    
+                                                        
+                                                <td><span class="label label-success">One Day</span></td>
+                                                
                                                 <td>12-02-2020</td>
+                                                <td>13:00</td>
                                                 <td>15-02-20</td>
-                                            </tr>
-                                            <tr>
-                                                <td><span class="round round-danger">N</span></td>
                                                 <td>
-                                                    <h6>Johnathan</h6><small class="text-muted">Graphic</small></td>
-                                                <td>Digital Agency</td>
-                                                <td><span class="label label-info">High</span></td>
-                                                <td>2500</td>
-                                            </tr>
-                                             <tr>
-                                                <td><span class="round round-danger">N</span></td>
-                                                <td>
-                                                    <h6>Johnathan</h6><small class="text-muted">Graphic</small></td>
-                                                <td>Digital Agency</td>
-                                                <td><span class="label label-info">High</span></td>
-                                                <td>250</td>
+                                                    <button type="button" class="btn btn-secondary btn-circle" data-toggle="tooltip"  data-original-title="Assign"><i class="fa fa-check"></i> </button>
+                                                </td>
                                             </tr>
                                         </tbody>
                                     </table>

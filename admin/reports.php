@@ -101,9 +101,6 @@
                                 <li><a href="contact.php">Contact</a></li>
                                 <li><a href="reports.php">Reports</a></li>
                                 <li><a href="blank.php">Blank</a></li>
-                              <!--  <li><a href="index4.html">Dashboard 4</a></li>
-                                <li><a href="index5.html">Dashboard 5</a></li>
-                                <li><a href="index6.html">Dashboard 6</a></li>-->
                     </ul>
                 </nav>
                 <!-- End Sidebar navigation -->
@@ -133,7 +130,7 @@
 <!--                        <h3 class="text-themecolor">Dashboard</h3>-->
                         <ol class="breadcrumb">
                             <li class="breadcrumb-item"><a href="javascript:void(0)">Home</a></li>
-                            <li class="breadcrumb-item active">Payment</li>
+                            <li class="breadcrumb-item active">Blank</li>
                         </ol>
                     </div>
                 </div>
@@ -142,16 +139,100 @@
                 <!-- ============================================================== -->
                 <!-- ============================================================== -->
                 <!-- Start Page Content -->
-               
+                
+            <!-- Row -->
                 <div class="row">
-                    <div class="col-12">
-                        <div class="card">
+                    <div class="col-12 m-t-5">
+                        <h2 class="m-b-10">Reports</h2>
+                        
+                    </div>
+                    <div class="col-md-6">
+                        <div class="card card-outline-inverse">
+                            <div class="card-header">
+                               <div class="col-lg-2 col-md-2 m-b-10" style="float:right" >
+                                        <button type="button" class="btn btn-block btn-outline-danger">Action</button>
+                                </div>
+                                <h4 class="m-b-5 text-white">Sunil Joshi</h4>
+                               
+                                
+                                 <h6 class="text-left text-white">13 March, 2020</h6>
+                            </div>
                             <div class="card-block">
-                                This is some text within a card block.
+                                <h3 class="card-title">With supporting text below as a natural lead-in to additional content</h3>
+                                <p class="card-text"></p>
+                                <a href="../assets/images/users/1.jpg" class="btn btn-primary">Document 1</a>
+                                <a href="../assets/images/users/2.jpg" class="btn btn-primary">Document 2</a>
+                                <a href="../assets/images/users/3.jpg" class="btn btn-primary">Document 3</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="card card-outline-inverse">
+                            <div class="card-header">
+                                <h4 class="m-b-5 text-white">Sunil Joshi</h4>
+                                <h6 class="text-left text-white">13 March, 2020</h6>
+                                
+                            </div>
+                            <div class="card-block">
+                                <h3 class="card-title">With supporting text below as a natural lead-in to additional content</h3>
+                                <p class="card-text"></p>
+                                <a href="../assets/images/users/1.jpg" class="btn btn-primary">Document 1</a>
+                                <a href="../assets/images/users/2.jpg" class="btn btn-primary">Document 2</a>
+                                <a href="../assets/images/users/3.jpg" class="btn btn-primary">Document 3</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="card card-outline-inverse">
+                            <div class="card-header">
+                                <h4 class="m-b-5 text-white">Sunil Joshi</h4>
+                                <h6 class="text-left text-white">13 March, 2020</h6>
+                                
+                            </div>
+                            <div class="card-block">
+                                <h3 class="card-title">With supporting text below as a natural lead-in to additional content</h3>
+                                <p class="card-text"></p>
+                                <a href="../assets/images/users/1.jpg" class="btn btn-primary">Document 1</a>
+                                <a href="../assets/images/users/2.jpg" class="btn btn-primary">Document 2</a>
+                                <a href="../assets/images/users/3.jpg" class="btn btn-primary">Document 3</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="card card-outline-inverse">
+                            <div class="card-header">
+                                <h4 class="m-b-5 text-white">Sunil Joshi</h4>
+                                <h6 class="text-left text-white">13 March, 2020</h6>
+                                
+                            </div>
+                            <div class="card-block">
+                                <h3 class="card-title">With supporting text below as a natural lead-in to additional content</h3>
+                                <p class="card-text"></p>
+                                <a href="../assets/images/users/1.jpg" class="btn btn-primary">Document 1</a>
+                                <a href="../assets/images/users/2.jpg" class="btn btn-primary">Document 2</a>
+                                <a href="../assets/images/users/3.jpg" class="btn btn-primary">Document 3</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="card card-outline-inverse">
+                            <div class="card-header">
+                                <h4 class="m-b-5 text-white">Sunil Joshi</h4>
+                                <h6 class="text-left text-white">13 March, 2020</h6>
+                                
+                            </div>
+                            <div class="card-block">
+                                <h3 class="card-title">With supporting text below as a natural lead-in to additional content</h3>
+                                <p class="card-text"></p>
+                                <a href="../assets/images/users/1.jpg" class="btn btn-primary">Document 1</a>
+                                <a href="../assets/images/users/2.jpg" class="btn btn-primary">Document 2</a>
+                                <a href="../assets/images/users/3.jpg" class="btn btn-primary">Document 3</a>
                             </div>
                         </div>
                     </div>
                 </div>
+                   
+                    
                 <!-- ============================================================== -->
                
                 <!-- ============================================================== -->

@@ -99,6 +99,7 @@
                                 <li><a href="activity.php">Activity</a></li>
                                 <li><a href="payment.php">Payment</a></li> 
                                 <li><a href="contact.php">Contact</a></li>
+                                <li><a href="reports.php">Reports</a></li>
                                 <li><a href="blank.php">Blank</a></li>
                     </ul>
                 </nav>
@@ -191,15 +192,12 @@
                                             <tr>
                                                 <th>Emp ID</th>
                                                 <th>Outdoor Employee </th>
-                                                
-                                               
                                                 <th>Status</th>
-                                                <th>Assign to</th>
+                                                <th>Assign from</th>
                                                 <th>Date</th>
                                                 <th>Expense View</th>
                                                 <th>Action</th>
-                                               
-                                            </tr>
+                                           </tr>
                                         </thead>
                                         <tbody>
                                            <tr>
